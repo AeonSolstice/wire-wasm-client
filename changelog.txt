@@ -1,0 +1,12 @@
+Report bugs in `#bugs` on discord
+
+# 0.0.2 (11/8/2024)
+- Main menu revamp
+  - Changed layout
+  - Added discord and changelog links
+  - Added version number
+- Slight clean up of js code
+
+# 0.0.1 (11/8/2024)
+- Development release
+- Changelog added
