@@ -1,5 +1,13 @@
 Report bugs in `#bugs` on discord
 
+# 0.0.5 (15/8/2024)
+- Added fog
+  - Damages players inside of it
+  - Expands based on number of players
+- Visual changes
+  - New wall colors
+  - Decreased grid visibility
+
 # 0.0.4 (14/8/2024)
 - Should no longer spawn in walls or close to other players
 - Can now change hud scale using `-`/`+`
