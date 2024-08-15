@@ -1,5 +1,8 @@
 Report bugs in `#bugs` on discord
 
+# 0.0.3 (14/8/2024)
+- Client now frees memory
+
 # 0.0.2 (11/8/2024)
 - Main menu revamp
   - Changed layout
